@@ -93,7 +93,7 @@ function Chat() {
 
               placeholder="Type a message"
               type = "text" />
-              <button onClick = {sendMessage} type="submit">Send a message</button>
+              <button onClick = {sendMessage} type="submit">Send</button>
           </form>
           <MicIcon />
         </div>
